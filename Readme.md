@@ -5,7 +5,7 @@
 ## 풀이 완료된 문제 목록
 ### Programmers
 * Level1
-  * 
+  * [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./P68644.java)
 * Level2
   * 
 * Level3

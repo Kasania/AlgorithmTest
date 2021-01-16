@@ -4,4 +4,4 @@ Level1 문제들을 풀때 코드 한줄로 풀기, Stream만 써서 풀기, 직
 
 * * *
 ## 풀이 완료된 문제 목록
-* 
+* [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./P68644.java)
