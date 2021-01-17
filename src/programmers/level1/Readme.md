@@ -13,3 +13,4 @@ Level1 문제들을 풀때 코드 한줄로 풀기, Stream만 써서 풀기, 직
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / [풀이](./P12901.java)
 * [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](./P12903.java)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / [풀이](./P68935.java)
+* [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) / [풀이](./P12906.java)
