@@ -5,6 +5,7 @@
 ## 풀이 완료된 문제 목록
 ### Programmers
 * LEVEL1
+  * [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](./src/programmers/level1/P12903.java)
   * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / [풀이](./src/programmers/level1/P12901.java)
   * [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](./src/programmers/level1/P42748.java)
   * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이](./src/programmers/level1/P42862.java)
