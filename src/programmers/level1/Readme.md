@@ -9,3 +9,4 @@ Level1 문제들을 풀때 코드 한줄로 풀기, Stream만 써서 풀기, 직
 * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) / [풀이](./P42576.java)
 * [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / [풀이](./P42840.java)
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이](./P42862.java)
+* [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](./P42748.java)
