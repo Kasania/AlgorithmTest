@@ -5,3 +5,4 @@
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) / [풀이](./P12909.java)
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) / [풀이](./P12911.java)
 * [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) / [풀이](./P12913.java)
+* [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) / [풀이](./P12939.java)
