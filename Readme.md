@@ -16,6 +16,7 @@
   * [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](./src/programmers/level1/P64061.java)
   * [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./src/programmers/level1/P68644.java)
 * LEVEL2
+  * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) / [풀이](./src/programmers/level2/P12911.java)
   * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) / [풀이](./src/programmers/level2/P12909.java)
 * LEVEL3
   * 
