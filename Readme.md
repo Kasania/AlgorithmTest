@@ -5,6 +5,7 @@
 ## 풀이 완료된 문제 목록
 ### Programmers
 * LEVEL1
+  * [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) / [풀이](./src/programmers/level1/P12910.java)
   * [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) / [풀이](./src/programmers/level1/P12906.java)
   * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / [풀이](./src/programmers/level1/P68935.java)
   * [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](./src/programmers/level1/P12903.java)
