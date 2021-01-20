@@ -5,6 +5,7 @@
 ## 풀이 완료된 문제 목록
 ### Programmers
 * LEVEL1
+  * [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) / [풀이](./src/programmers/level1/P12919.java)
   * [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) / [풀이](./src/programmers/level1/P12918.java)
   * [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) / [풀이](./src/programmers/level1/P12917.java)
   * [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](./src/programmers/level1/P12916.java)
