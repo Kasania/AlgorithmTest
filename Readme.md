@@ -5,6 +5,7 @@
 ## 풀이 완료된 문제 목록
 ### Programmers
 * LEVEL1
+  * [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) / [풀이](./src/programmers/level1/P12918.java)
   * [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) / [풀이](./src/programmers/level1/P12917.java)
   * [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](./src/programmers/level1/P12916.java)
   * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) / [풀이](./src/programmers/level1/P12915.java)
