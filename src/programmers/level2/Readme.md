@@ -11,3 +11,4 @@
 * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) / [풀이](./P12951.java)
 * [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) / [풀이](./P70129.java)
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) / [풀이](./P1845.java)
+* [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이](./P42747.java)
