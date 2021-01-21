@@ -23,6 +23,7 @@
   * [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](./src/programmers/level1/P64061.java)
   * [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./src/programmers/level1/P68644.java)
 * LEVEL2
+  * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) / [풀이](./src/programmers/level2/P12951.java)
   * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) / [풀이](./src/programmers/level2/P12945.java)
   * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) / [풀이](./src/programmers/level2/P12941.java)
   * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) / [풀이](./src/programmers/level2/P12939.java)
